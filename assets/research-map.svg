@@ -1,0 +1,30 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Research network visual</title>
+  <desc id="desc">A calm abstract network of nodes connecting AI methods, strategy, teams, and international business.</desc>
+  <rect width="960" height="720" rx="0" fill="#F7F9FB"/>
+  <path d="M92 533C168 427 222 268 352 255C457 244 495 332 581 315C685 293 714 156 847 124" stroke="#0F766E" stroke-width="3" stroke-linecap="round" opacity=".34"/>
+  <path d="M103 245C211 334 309 390 447 376C552 365 611 253 743 291C797 306 832 341 872 386" stroke="#B45309" stroke-width="3" stroke-linecap="round" opacity=".26"/>
+  <path d="M214 612C276 541 336 494 431 493C529 492 579 574 680 551C747 536 782 484 839 449" stroke="#B42318" stroke-width="3" stroke-linecap="round" opacity=".24"/>
+  <path d="M223 136L363 255L452 113L581 315L744 291L847 124" stroke="#243B53" stroke-width="2" opacity=".16"/>
+  <path d="M223 136L103 245L352 255L447 376L581 315L680 551L839 449" stroke="#243B53" stroke-width="2" opacity=".14"/>
+  <circle cx="223" cy="136" r="70" fill="#FFFFFF" stroke="#0F766E" stroke-width="3"/>
+  <circle cx="363" cy="255" r="50" fill="#FFFFFF" stroke="#B42318" stroke-width="3"/>
+  <circle cx="452" cy="113" r="42" fill="#FFFFFF" stroke="#B45309" stroke-width="3"/>
+  <circle cx="581" cy="315" r="76" fill="#FFFFFF" stroke="#0F766E" stroke-width="3"/>
+  <circle cx="744" cy="291" r="54" fill="#FFFFFF" stroke="#243B53" stroke-width="3"/>
+  <circle cx="680" cy="551" r="63" fill="#FFFFFF" stroke="#B45309" stroke-width="3"/>
+  <circle cx="839" cy="449" r="44" fill="#FFFFFF" stroke="#B42318" stroke-width="3"/>
+  <circle cx="103" cy="245" r="33" fill="#FFFFFF" stroke="#7C3AED" stroke-width="3" opacity=".72"/>
+  <circle cx="447" cy="376" r="36" fill="#FFFFFF" stroke="#0F766E" stroke-width="3" opacity=".82"/>
+  <text x="223" y="127" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#102A43">AI</text>
+  <text x="223" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#486581">methods</text>
+  <text x="363" y="263" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#102A43">language</text>
+  <text x="452" y="121" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#102A43">data</text>
+  <text x="581" y="305" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#102A43">strategy</text>
+  <text x="581" y="338" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#486581">and IB</text>
+  <text x="744" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#102A43">teams</text>
+  <text x="744" y="314" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#486581">design</text>
+  <text x="680" y="543" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#102A43">SMEs</text>
+  <text x="680" y="573" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#486581">innovation</text>
+  <text x="839" y="457" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#102A43">policy</text>
+</svg>
